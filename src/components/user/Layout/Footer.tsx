@@ -11,7 +11,7 @@ function Footer() {
                 <div className="md:flex md:justify-between">
                     <div className="mb-6 md:mb-0">
                         <a href="https://www.facebook.com/leluxeclinic" className="flex items-center">
-                            <img src="/images/Logo.png" className="h-40 me-3" alt="Le Luxe" width={180} height={200} />
+                            <img src="/images/logo.png" className="h-40 me-3" alt="Le Luxe" width={180} height={200} />
                         </a>
                     </div>
                     <div className="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
